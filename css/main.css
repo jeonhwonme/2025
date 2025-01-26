@@ -1,6 +1,5 @@
 @charset "UTF-8";
 
-
 * {
     list-style: none;
     box-sizing: border-box;
@@ -55,3 +54,18 @@ div.thumb-wrapper {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
 }
+
+
+main span{
+    font-family: "freight-big-pro", serif;
+    font-weight: 300;
+    font-style: italic;
+}
+
+
+
+
+
+
+
+
